@@ -1,0 +1,22 @@
+/* alieado vertical, el cual se podria usar para diseno responsive del movil */
+main{
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: system-ui;
+}
+
+/* alineado horizontal, texto al lado de la imagen */
+section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+}
+
+section img{
+    max-width: 500px;
+    height: auto;
+}

@@ -1,0 +1,76 @@
+{
+  "Search": [
+    {
+      "Title": "The Hunger Games",
+      "Year": "2012",
+      "imdbID": "tt1392170",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWI1OWM3ZmEtNjQ2OS00NzI2LTgwNWMtZDAyMGI1OTM2MzJmXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Hunger Games: Catching Fire",
+      "Year": "2013",
+      "imdbID": "tt1951264",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Hunger Games: Mockingjay - Part 1",
+      "Year": "2014",
+      "imdbID": "tt1951265",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxNDI2NDAzNl5BMl5BanBnXkFtZTgwODM3MTc2MjE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Hunger Games: Mockingjay - Part 2",
+      "Year": "2015",
+      "imdbID": "tt1951266",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjQzNDI2NTU1Ml5BMl5BanBnXkFtZTgwNTAyMDQ5NjE@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+      "Year": "2023",
+      "imdbID": "tt10545296",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTZmMmY2MzctMjU2Yy00YjJlLTk1NjAtY2U4MmMxOWZkZWY4XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The World Is Watching: Making the Hunger Games",
+      "Year": "2012",
+      "imdbID": "tt2327114",
+      "Type": "movie",
+      "Poster": "N/A"
+    },
+    {
+      "Title": "Hunger Games: The Second Quarter Quell",
+      "Year": "2011",
+      "imdbID": "tt3413318",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjYxOTE3NTMtNzU1MC00ODQxLTk3ZjAtNDUwOTg1ZjY3YTFhXkEyXkFqcGdeQXVyMTQ2NjI0Nzg4._V1_SX300.jpg"
+    },
+    {
+      "Title": "Hunger Games: Katniss & Rue",
+      "Year": "2010",
+      "imdbID": "tt2858204",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmNiYTkzNmItOWM5Mi00ZDg5LTk2YTItODEzMDFjNzdjMDgzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjk5MjkxNzI@._V1_SX300.jpg"
+    },
+    {
+      "Title": "Surviving the Game - Making the Hunger Games: Catching Fire",
+      "Year": "2013",
+      "imdbID": "tt4041372",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmYyZGY3ZGItODY2YS00NWI1LTgwYzctNDlmMjhmZDc1YjdlXkEyXkFqcGdeQXVyMTEyMDcwNw@@._V1_SX300.jpg"
+    },
+    {
+      "Title": "The Hunger Games: Poseidon's Son",
+      "Year": "2012",
+      "imdbID": "tt2427488",
+      "Type": "movie",
+      "Poster": "N/A"
+    }
+  ],
+  "totalResults": "73",
+  "Response": "True"
+}
